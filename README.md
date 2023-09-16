@@ -76,7 +76,7 @@ Local Machine, Git, Text Editor (VS Code preferably)
 
 ### Setup
 
-Checkout the project repository <a href="https://github.com/Rhaegar121/Tic-Tac-Toe">here</a>
+Checkout the project repository <a href="https://github.com/Gajmain2020/tic-tac-toe">here</a>
 
 ### Install
 
