@@ -60,7 +60,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](paste the link over here/)
+- [Live Demo Link](https://beamish-brioche-8c5a53.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
